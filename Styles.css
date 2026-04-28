@@ -1,0 +1,19 @@
+.Enlace_Pagina a{
+	text-decoration: none;
+	font-family: 'Press Start 2P', cursive;
+	color: blue;
+}
+
+.Enlace_Pagina a:hover{
+	text-decoration: underline;
+}
+
+.Enlaces a{
+	text-decoration: none;
+	font-family: 'Press Start 2P', cursive;
+	color: blue;
+}
+
+.Enlaces a:hover{
+	text-decoration: underline;
+}
